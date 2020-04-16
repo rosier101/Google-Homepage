@@ -1,0 +1,112 @@
+body{
+  background-color: white;
+  
+}
+
+ul {
+  font-size:17px;
+  color: black;
+}
+
+li {
+  display:inline;
+  padding-left: 15px;
+}
+
+#nav-left{
+  float:left;
+  margin-left: -40px;
+}
+
+#nav-right{
+  float: right;
+  padding-right:20px;
+  margin-right: 40px;
+}
+
+a{
+  color: grey;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+
+}
+
+
+.logo{
+  text-align: center;
+  padding-top: 80px;
+}
+
+
+.text-form1{
+  text-align: center;
+ 
+  
+}
+
+#search-placeholder{
+  width: 600px;
+  length: 600px;
+  border: 1px solid grey;
+  box-shadow: 2px 2px 5px .5px grey;
+  border-radius: 25px;
+  height: 40px;
+  
+}
+
+.google-button{
+  padding-top: 30px;
+  padding-left: 830px;
+  
+}
+
+#google-search{
+  height: 35px;
+  width: 120px;
+  background-color: e6e2de;
+  border: 0px;
+  border-radius: 5px;
+}
+
+.lucky-button{
+  margin-top: -35px;
+  padding-left: 960px;
+  
+}
+
+#lucky-search{
+  height: 35px;
+  width: 120px;
+  background-color: e6e2de;
+  border: 0px;
+  border-radius: 5px;
+}
+
+.footer-box{
+  position: fixed;
+  width: 100%;
+  height: 30px;
+  margin-top: 190px;
+  background-color: #F2F2F3;
+  
+}
+
+.footer-left{
+  position: fixed;
+  float: left;
+  padding-top: 180px;
+  margin-left: -40px;
+}
+
+.footer-right{
+  position: fixed;
+  padding-top: 180px;
+  margin-right: 40px;
+  padding-left: 1450px;
+}
